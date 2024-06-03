@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab4App2/Lab4App2.iml" filepath="$PROJECT_DIR$/Lab4App2/Lab4App2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab7App4/Lab7App4.iml" filepath="$PROJECT_DIR$/Lab7App4/Lab7App4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1semaphore/app1semaphore.iml" filepath="$PROJECT_DIR$/app1semaphore/app1semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app3/app3.iml" filepath="$PROJECT_DIR$/app3/app3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app3BUN/app3BUN.iml" filepath="$PROJECT_DIR$/app3BUN/app3BUN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labsession5.iml" filepath="$PROJECT_DIR$/labsession5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try/try.iml" filepath="$PROJECT_DIR$/try/try.iml" />
+    </modules>
+  </component>
+</project>
